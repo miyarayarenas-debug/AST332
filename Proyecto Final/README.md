@@ -1,6 +1,5 @@
 # Final Project: Potential risk of asteroids trajectories
 
-*final_project.ipynb: Project code
-
-*Machine Learning - Final Project Presentation.pdf: Project presentation slides
+* final_project.ipynb: Project code
+* Machine Learning - Final Project Presentation.pdf: Project presentation slides
 
